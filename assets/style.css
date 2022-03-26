@@ -15,21 +15,16 @@
 
 
 
-
-
-
-
-
-
-
-
 /*
   DEBUG
  */
 
-  .debug{
-    background-color: rgba(255, 0, 0, 0.274);
-    border: 1px solid black;
+.debug{
+  background-color: rgba(255, 0, 0, 0.274);
+  border: 1px solid black;
 
 }
 
+.h100{
+  height: 100px;
+}
